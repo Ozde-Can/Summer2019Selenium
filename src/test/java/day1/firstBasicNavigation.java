@@ -15,7 +15,10 @@ public class firstBasicNavigation {
 
         driver.get("http://google.com");
 
-        Thread.sleep(2000);
+        Thread.sleep(5000);
+
+
+
 
         driver.close();
 
